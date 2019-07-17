@@ -10,11 +10,13 @@
     "portfolio",
     "personal",
     "website",
-    "tech",
+    "dankore",
     "coding",
+    "adamu",
+    "tech",
     "dev"
   ],
-  "author": "Ryan Fitzgerald",
+  "author": "Adamu Muhammad Dankore",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^4.0.0",
